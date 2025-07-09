@@ -1,0 +1,27 @@
+{
+  "name": "elementary-the-complete-edition",
+  "version": "1.0.0",
+  "description": "An interactive chemistry game where you discover compounds by combining elements. Features a comprehensive discovery guide and a hint system to help you find them all.",
+  "private": true,
+  "scripts": {
+    "prepare": "tsc",
+    "start": "serve .",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "serve": "^14.2.3",
+    "typescript": "^5.4.5"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "chemistry",
+    "game",
+    "education"
+  ],
+  "author": "Zaib Uddin",
+  "license": "MIT"
+}
