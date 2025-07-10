@@ -1,5 +1,7 @@
 # Elementary: The Complete Edition
 
+![Elementary Screenshot](ElementaryScreenshot.jpg)
+
 An interactive chemistry game where you discover over 300 compounds by combining elements. This project was built to be a fun, educational tool for learning basic chemistry concepts through experimentation. It features a comprehensive discovery guide, a hint system, and an interactive tutorial to help you find them all.
 
 **Created by Zaib Uddin, enhanced and prepared for sharing.**
